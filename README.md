@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my page!
+Welcome to my page!<br>
 ⚡ I'm Reda, Fullstack developer from Rabat, Morocco<br>
 🌱 I’m currently learning Next Js<br>
 
@@ -14,12 +14,6 @@ Welcome to my page!
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Raderne&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raderne&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raderne&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raderne&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
