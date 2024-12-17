@@ -1,7 +1,7 @@
 # 💫 About Me:
 Welcome to my page!<br>
-⚡ I'm Reda, Fullstack developer from Rabat, Morocco<br>
-🌱 I’m currently learning Next Js<br>
+⚡ I'm Reda, a developer from Rabat, Morocco<br>
+🌱 I’m currently learning React Native<br>
 
 
 ## 🌐 Socials:
